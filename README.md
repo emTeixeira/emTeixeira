@@ -55,15 +55,25 @@
   <a href="https://github.com/emTeixeira/leave-store">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=emTeixeira&repo=leave-store&theme=tokyonight" />
   </a>
+  <p align="center"><i>A simple online store built with HTML5, CSS3, and JavaScript to showcase products and simulate a basic e-commerce experience.</i></p>
+  
   <a href="https://github.com/emTeixeira/crocmaria-dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=emTeixeira&repo=crocmaria-dashboard&theme=tokyonight" />
   </a>
+  <p align="center"><i>The CrocMaria Dashboard project is a financial management application that allows users to register sales, expenses, and receipts, while also displaying graphs and financial summaries. This project was created to meet the needs of a home-based business, focusing on simplicity, directness, and functionality.</i></p>
+  
   <a href="https://github.com/emTeixeira/leave-downloader">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=emTeixeira&repo=leave-downloader&theme=tokyonight" />
   </a>
+  <p align="center"><i>LeaveDownloader is a simple application that allows users to download YouTube videos and extract audio from them. Its goal is to make it easier to create audio files for Discord. The app features a graphical user interface built with Tkinter.</i></p>
+  
   <a href="https://github.com/emTeixeira/pdf-editor">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=emTeixeira&repo=pdf-editor&theme=tokyonight" />
   </a>
+  <p align="center"><i>This is a simple web project for editing PDF files. It allows users to:
+    - Add a password to a PDF file
+    - Remove a password from a PDF file
+    - Convert files from various formats to PDF</i></p>
 </p>
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=2C2D7A&height=100&section=footer&animation=fadeIn&width=100%)](https://capsule-render.vercel.app/api?type=waving&height=100&color=2C2D7A&fontColor=F5F5F5&section=footer&reversal=false&descAlignY=50&descAlign=50&animation=fadeIn&fontAlignY=50)
