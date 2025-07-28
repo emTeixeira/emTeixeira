@@ -89,7 +89,7 @@
 
 <p align="center" style="margin-bottom: 20px;">&nbsp;</p>
 
-<h3 align="center">Meios de Contato</h3>
+<h3 align="center">Contacts</h3>
 
 <p align="center">
   <a href="mailto:emanuelteixeira.dev@gmail.com" style="text-decoration: none; margin-right: 20px;">
@@ -108,7 +108,7 @@
 
 <hr>
 
-<h3 align="center">Meus Projetos</h3>
+<h3 align="center">My Projectss</h3>
 
 <p align="center">
   <a href="https://github.com/emTeixeira/leave-store">
