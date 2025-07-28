@@ -13,8 +13,7 @@
 <div align="center" style="margin-top: 20px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emTeixeira&theme=tokyonight" width="48%" height="300" style="margin: 0 1%; display: inline-block;" />
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com
-?user=emTeixeira&theme=tokyonight&hide_border=true" width="35%" height="200" style="margin: 0 1%; display: inline-block;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=emTeixeira&theme=tokyonight&hide_border=true" width="35%" height="200" style="margin: 0 1%; display: inline-block;" />
   </a>
 </div>
 
