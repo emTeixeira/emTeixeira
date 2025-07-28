@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=2C2D7A&text=Be%20welcome!&fontSize=70&fontColor=F5F5F5&height=300&section=header&fontAlign=50&fontAlignY=50&font=Fira%20Code&width=100%)](https://capsule-render.vercel.app/api?type=waving&height=300&color=2C2D7A&text=Be%20welcome!&fontColor=F5F5F5&section=header&reversal=false&descAlignY=50&descAlign=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2C2D7A&text=Be%20welcome!&fontSize=70&fontColor=F5F5F5&height=300&section=header&fontAlign=50&fontAlignY=50&font=Fira%20Code&width=100%)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=30&color=F5F5F5&vCenter=true&lines=Hello%2C+I'm+Emanuel!" />
@@ -17,9 +17,7 @@
   </a>
 </div>
 
-<h3 align="center" style="margin-top: 30px;">Languages & Technologies</h3>
-
-<p align="center">
+<p align="center" style="margin-top: 30px;">
   <img align="center" alt="HTML" title="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -29,6 +27,8 @@
   <img align="center" alt="TypeScript" title="TypeScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
+
+<p align="center" style="margin-bottom: 20px;">&nbsp;</p>
 
 <h3 align="center" style="margin-top: 50px;">Contacts</h3>
 
@@ -55,25 +55,30 @@
   <a href="https://github.com/emTeixeira/leave-store">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=emTeixeira&repo=leave-store&theme=tokyonight" />
   </a>
-  <p align="center"><i>A simple online store built with HTML5, CSS3, and JavaScript to showcase products and simulate a basic e-commerce experience.</i></p>
-  
   <a href="https://github.com/emTeixeira/crocmaria-dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=emTeixeira&repo=crocmaria-dashboard&theme=tokyonight" />
   </a>
-  <p align="center"><i>The CrocMaria Dashboard project is a financial management application that allows users to register sales, expenses, and receipts, while also displaying graphs and financial summaries. This project was created to meet the needs of a home-based business, focusing on simplicity, directness, and functionality.</i></p>
-  
   <a href="https://github.com/emTeixeira/leave-downloader">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=emTeixeira&repo=leave-downloader&theme=tokyonight" />
   </a>
-  <p align="center"><i>LeaveDownloader is a simple application that allows users to download YouTube videos and extract audio from them. Its goal is to make it easier to create audio files for Discord. The app features a graphical user interface built with Tkinter.</i></p>
-  
   <a href="https://github.com/emTeixeira/pdf-editor">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=emTeixeira&repo=pdf-editor&theme=tokyonight" />
   </a>
-  <p align="center"><i>This is a simple web project for editing PDF files. It allows users to:
-    - Add a password to a PDF file
-    - Remove a password from a PDF file
-    - Convert files from various formats to PDF</i></p>
 </p>
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=2C2D7A&height=100&section=footer&animation=fadeIn&width=100%)](https://capsule-render.vercel.app/api?type=waving&height=100&color=2C2D7A&fontColor=F5F5F5&section=footer&reversal=false&descAlignY=50&descAlign=50&animation=fadeIn&fontAlignY=50)
+<hr style="border-top: 1px solid #bbb; margin-top: 50px;">
+
+<h3 align="center" style="margin-top: 30px;">Languages & Technologies</h3>
+
+<p align="center">
+  <img align="center" alt="HTML" title="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Lua" title="Lua" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+  <img align="center" alt="TypeScript" title="TypeScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=2C2D7A&height=100&section=footer&animation=fadeIn&width=100%)
