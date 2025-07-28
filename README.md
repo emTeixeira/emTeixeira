@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2C2D7A&text=Be%20welcome!&fontSize=70&fontColor=F5F5F5&height=300&section=header&animation=fadeIn&fontAlign=50&fontAlignY=50&font=Russo%20One)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=2C2D7A&text=Emanuel%20Teixeira&fontSize=70&fontColor=F5F5F5&height=300&section=header&fontAlign=50&fontAlignY=50&font=Roboto)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=30&color=F5F5F5&vCenter=true&lines=Hello%2C+I'm+Emanuel!" />
