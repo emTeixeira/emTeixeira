@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2C2D7A&text=Be%20welcome!&fontSize=70&fontColor=F5F5F5&height=300&section=header&fontAlign=50&fontAlignY=50&font=Fira%20Code&width=100%)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=2C2D7A&text=Be%20welcome!&fontSize=70&fontColor=F5F5F5&height=300&section=header&fontAlign=50&fontAlignY=50&font=Fira%20Code&width=100%)](https://capsule-render.vercel.app/api?type=waving&height=300&color=2C2D7A&text=Be%20welcome!&fontColor=F5F5F5&section=header&reversal=false&descAlignY=50&descAlign=50&animation=fadeIn)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=30&color=F5F5F5&vCenter=true&lines=Hello%2C+I'm+Emanuel!" />
@@ -66,4 +66,4 @@
   </a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=2C2D7A&height=100&section=footer&animation=fadeIn&width=100%)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=2C2D7A&height=100&section=footer&animation=fadeIn&width=100%)](https://capsule-render.vercel.app/api?type=waving&height=100&color=2C2D7A&fontColor=F5F5F5&section=footer&reversal=false&descAlignY=50&descAlign=50&animation=fadeIn&fontAlignY=50)
