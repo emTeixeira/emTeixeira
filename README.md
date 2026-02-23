@@ -41,7 +41,7 @@
   <a href="https://www.instagram.com/em.teixeira/" style="text-decoration: none; margin-right: 20px;">
     <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=fff" />
   </a>
-  <a href="https://discordapp.com/users/7h3_leave" style="text-decoration: none;">
+  <a href="https://discordapp.com/users/em.teixeira" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-000000?style=flat&logo=Discord&logoColor=fff" />
   </a>
 </p>
